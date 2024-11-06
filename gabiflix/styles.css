@@ -1,0 +1,8 @@
+body {
+    color: yellow;
+    background: darkred;
+}
+
+header {
+    border bottom: solid 2px rgb(235, 208, 156, 1); 
+}
